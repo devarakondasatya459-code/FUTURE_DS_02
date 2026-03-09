@@ -1,0 +1,21 @@
+Customer ID,Signup Date,Last Activity Date,Subscription Type,Plan Amount,Churned,Number of Logins,Support Tickets,Region
+C001,2023-01-01,2023-03-15,Monthly,50,Yes,5,1,North
+C002,2023-01-05,2023-06-01,Yearly,500,No,35,0,South
+C003,2023-01-10,2023-01-30,Monthly,50,Yes,2,2,East
+C004,2023-01-12,2023-07-01,Yearly,500,No,40,0,West
+C005,2023-01-20,2023-03-01,Monthly,50,Yes,3,1,North
+C006,2023-02-01,2023-08-01,Yearly,500,No,50,0,South
+C007,2023-02-05,2023-04-01,Monthly,50,Yes,4,1,East
+C008,2023-02-10,2023-09-01,Yearly,500,No,45,0,West
+C009,2023-02-15,2023-05-01,Monthly,50,Yes,3,2,North
+C010,2023-03-01,2023-09-01,Yearly,500,No,55,0,South
+C011,2023-03-05,2023-06-15,Monthly,50,Yes,4,1,East
+C012,2023-03-10,2023-10-01,Yearly,500,No,60,0,West
+C013,2023-03-12,2023-04-15,Monthly,50,Yes,3,1,North
+C014,2023-04-01,2023-10-01,Yearly,500,No,70,0,South
+C015,2023-04-05,2023-05-20,Monthly,50,Yes,2,2,East
+C016,2023-04-10,2023-11-01,Yearly,500,No,65,0,West
+C017,2023-05-01,2023-07-01,Monthly,50,Yes,3,1,North
+C018,2023-05-05,2023-12-01,Yearly,500,No,75,0,South
+C019,2023-05-10,2023-08-01,Monthly,50,Yes,4,1,East
+C020,2023-05-15,2023-12-01,Yearly,500,No,80,0,West
